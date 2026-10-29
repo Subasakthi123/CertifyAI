@@ -1,0 +1,9 @@
+streamlit>=1.50
+opencv-python-headless>=4.8
+Pillow>=10.0
+numpy>=1.26
+pandas>=2.0
+easyocr>=1.7.1
+scikit-learn>=1.3
+joblib>=1.3
+PyMuPDF>=1.23
